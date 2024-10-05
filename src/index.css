@@ -1,0 +1,39 @@
+.delete{
+    margin: 20px;
+    background-color: red;
+    color: BLACK#ffffff;
+    border: 3px solid #000000;
+    border-radius: 25px;
+    width: 100px;
+    padding: 5px;
+    font-size: larger;
+    font-weight: 500;
+}
+.edit{
+    margin: 20px;
+    background-color: #0fe60f;
+    color: BLACK#ffffff;
+    border: 3px solid #000000;
+    border-radius: 25px;
+    width: 100px;
+    padding: 5px;
+    font-size: larger;
+    font-weight: 500;
+}
+body{
+    background-color: #38bdf8;
+    font: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.add{
+    margin: 20px;
+    background-color: yellow;
+    color: #000000;
+    border: 3px solid #000000;
+    border-radius: 20px;
+    width: 112px;
+    padding: 5px;
+    font-size: larger;
+    font-weight: 500;
+    box-shadow: #000000;
+}
